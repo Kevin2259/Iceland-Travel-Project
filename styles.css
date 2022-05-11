@@ -1,0 +1,161 @@
+
+
+.fa-plane-up {
+    color: #363332;
+    font-size: 50px;
+    text-align: center;
+}
+
+#iceland-map {
+    width: 120px;
+    height: 80px;
+}
+
+#logo-map-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+#iceland-caption {
+    text-align: start;
+}
+
+#logo-iceland-caption {
+    text-align: start;
+    padding: 0;
+    margin: 0;
+}
+
+.title-header {
+    text-align: center;
+}
+
+#iceland-todo-content {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 2px solid black;
+    background-color: #c1c7e3;
+    padding: 10px;
+}
+
+.home-images {
+    width: 250px;
+    height: 175px;
+    border: 2px solid black;
+}
+
+.iceland-home-caption {
+    font-size: 14px;
+}
+
+.home-image-paragraph {
+    display: flex;
+}
+
+#position-home-text {
+    padding-left: 40px;
+}
+
+.paragraph-attribute {
+    font-size: 20px;
+}
+
+.paragraph-position-news {
+    padding-left: 30px;
+}
+
+table, th, td {
+    border:2px solid black;
+}
+
+th {
+background-color: #c1c7e3;
+}
+
+td {
+background-color: #6380f2;
+}
+
+#table-content {
+    width: 400px;
+}
+
+.ui-helper-center {
+    text-align: center;
+}
+
+.fa-phone {
+    color: #363332;
+    font-size: 50px;
+    text-align: center;
+}
+
+.fa-envelope {
+    color: #363332;
+    font-size: 50px;
+    text-align: center;
+}
+
+.fa-instagram {
+    color: #363332;
+    font-size: 50px;
+    text-align: center;
+}
+
+.contact-position {
+    padding-left: 20px;
+}
+
+.contact-align {
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    float: none;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+} 
+
+.position-nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid black;
+}
+
+#author {
+    text-align: center;
+}
+
+.image-content-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-iceland {
+    width: 450px;
+    height: 375px;
+    border: 4px solid black;
+    margin: 1px;
+}
+
+div.content-iceland {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+    background-color: #66c7ff;
+}
+
+.paragraph-size {
+    font-size: 20px;
+}
